@@ -1,6 +1,7 @@
 # Bilibili_Playlist_Search
 
 * 用于查询合集总时长。
+* 视频选集时长查询可以用b站直接查。
 
 ## 如何使用
 
