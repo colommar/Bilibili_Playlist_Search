@@ -1,4 +1,6 @@
-var time_elements = document.querySelectorAll('.length');
+//var time_elements = document.querySelectorAll('.length');
+
+var time_elements = document.querySelectorAll('.video-episode-card__info-duration');
 //如有问题，请访问https://github.com/colommar/Bilibili_Playlist_Search
 var totalTime = 0;
 var timesArray = []; 
